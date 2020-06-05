@@ -5,7 +5,7 @@ export const reports = [
         description: 'Based on data pulled from Orion',
         report_url: 'https://ccbu-viya35.aws.sas.com/links/resources/report?uri=%2Freports%2Freports%2F2dd230ca-ee5e-4998-b682-ac9cff3aa656&page=vi102866',
         button_desc: 'View Opps Report',
-        screen_shot: 'ORION_Report.SC.png'
+        screen_shot: 'Orion_Report.SC.png'
     },
 
     {
