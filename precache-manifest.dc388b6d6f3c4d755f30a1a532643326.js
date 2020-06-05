@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "53b561bfdf8714f9373c477d1f3f51a5",
+    "revision": "5ea48dd926494762c76a449b906b4ef6",
     "url": "/CCBUTeamReports/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/CCBUTeamReports/static/css/2.abd97b8c.chunk.css"
   },
   {
-    "revision": "67db63ebb4ecd6fa32b4",
+    "revision": "cc5fac28af6f2f21f2e1",
     "url": "/CCBUTeamReports/static/css/main.5e2d8bb9.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/CCBUTeamReports/static/js/2.bd2cd84a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "67db63ebb4ecd6fa32b4",
-    "url": "/CCBUTeamReports/static/js/main.b2d20aa4.chunk.js"
+    "revision": "cc5fac28af6f2f21f2e1",
+    "url": "/CCBUTeamReports/static/js/main.e00735fb.chunk.js"
   },
   {
     "revision": "70dccde8827f45deb8a3",
