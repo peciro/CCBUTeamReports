@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/CCBUTeamReports/precache-manifest.dc388b6d6f3c4d755f30a1a532643326.js"
+  "/CCBUTeamReports/precache-manifest.021a675c5b85eb8b286242d55106158d.js"
 );
 
 self.addEventListener('message', (event) => {
